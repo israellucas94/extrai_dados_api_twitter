@@ -1,0 +1,8 @@
+venv/
+logs/
+airflow_pipeline/airflow-*
+airflow_pipeline/logs
+airflow_pipeline/airflow.*
+airflow_pipeline/standalone*
+airflow_pipeline/webserver*
+airflow.*
